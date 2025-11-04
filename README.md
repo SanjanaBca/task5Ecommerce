@@ -1,44 +1,27 @@
-# Anon - An eCommerce Website
+# Anon - E-commerce Website (Final Project)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+A fully responsive and optimized e-commerce website built using **HTML**, **CSS**, and **JavaScript**.  
+This project demonstrates integration of front-end development skills and browser compatibility optimization.
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+## 🌟 Features
+- Product listings and category sections
+- Responsive design for all devices
+- Cross-browser compatibility (Chrome, Firefox, Safari, Mobile)
+- Optimized assets for performance
 
-## Demo
+## 🧠 Technologies Used
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript (for interactivity)
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## 📱 Compatibility
+Tested on:
+- Google Chrome
+- Mozilla Firefox
+- Safari
+- Mobile browsers (Android/iOS)
 
-## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing Anon
-
-To install **Anon**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+✅ *Final Project for Web Development - Performance, Responsiveness, and Optimization Module.*
